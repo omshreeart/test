@@ -1,0 +1,146 @@
+[
+  {
+    "slug": "number-plates",
+    "name": "Number Plates",
+    "category": "Plates",
+    "cat": "plates",
+    "img": "plate.svg",
+    "subtitle": "Built to be seen. Made to fit.",
+    "description": "Custom vehicle number plates for motorcycles, scooters, cars and commercial vehicles. Ask us about the correct size, lettering and finish for your vehicle.",
+    "options": [
+      "Motorcycle & scooter",
+      "Car & jeep",
+      "Reflective options",
+      "Custom dimensions"
+    ],
+    "featured": true
+  },
+  {
+    "slug": "rubber-stamps",
+    "name": "Rubber Stamps",
+    "category": "Stamps",
+    "cat": "stamps",
+    "img": "stamp.svg",
+    "subtitle": "One clean impression, every time.",
+    "description": "Self-inking, traditional, company, address, logo and date stamps for daily professional use.",
+    "options": [
+      "Self-inking stamps",
+      "Company seals",
+      "Date stamps",
+      "Custom text & logo"
+    ],
+    "featured": true
+  },
+  {
+    "slug": "business-cards",
+    "name": "Business Cards",
+    "category": "Print & Paper",
+    "cat": "print",
+    "img": "cards.svg",
+    "subtitle": "First impressions, thoughtfully printed.",
+    "description": "Visiting cards with your choice of artwork, paper, finish and quantity.",
+    "options": [
+      "Single & double-sided",
+      "Matte or gloss",
+      "Premium card stocks",
+      "Custom layouts"
+    ],
+    "featured": true
+  },
+  {
+    "slug": "sign-boards",
+    "name": "Sign Boards",
+    "category": "Signage",
+    "cat": "signage",
+    "img": "sign.svg",
+    "subtitle": "Get your business noticed.",
+    "description": "Custom signboards, shop signs and illuminated signage designed around your brand and site.",
+    "options": [
+      "Shopfront signage",
+      "Acrylic & ACP",
+      "LED styles",
+      "Custom measurement"
+    ],
+    "featured": true
+  },
+  {
+    "slug": "flex-banners",
+    "name": "Flex & Banners",
+    "category": "Large Format",
+    "cat": "outdoor",
+    "img": "banner.svg",
+    "subtitle": "Big format. Bigger presence.",
+    "description": "Banners and flex printing for shops, events, promotions, exhibitions and outdoor displays.",
+    "options": [
+      "Custom sizes",
+      "Event backdrops",
+      "Roll-up styles",
+      "Outdoor print"
+    ],
+    "featured": true
+  },
+  {
+    "slug": "stickers-labels",
+    "name": "Stickers & Labels",
+    "category": "Print & Paper",
+    "cat": "print",
+    "img": "stickers.svg",
+    "subtitle": "Little details that stick.",
+    "description": "Printed product labels, decals, die-cut stickers and branding pieces for your packaging or displays.",
+    "options": [
+      "Paper & vinyl",
+      "Die-cut shapes",
+      "Packaging labels",
+      "Custom quantities"
+    ],
+    "featured": true
+  },
+  {
+    "slug": "brochures-flyers",
+    "name": "Flyers & Brochures",
+    "category": "Print & Paper",
+    "cat": "print",
+    "img": "paper.svg",
+    "subtitle": "Tell your story in print.",
+    "description": "Promotional flyers, brochures, menus, leaflets and paper materials designed for impact.",
+    "options": [
+      "Flyers & menus",
+      "A4 / A5 / custom",
+      "Folding choices",
+      "Paper options"
+    ],
+    "featured": false
+  },
+  {
+    "slug": "graphic-design",
+    "name": "Graphic Design",
+    "category": "Design",
+    "cat": "design",
+    "img": "design.svg",
+    "subtitle": "Good print starts with great design.",
+    "description": "Posters, menus, flyers, logos and production-ready design layouts with precise placement and professional formatting.",
+    "options": [
+      "Logo & layout",
+      "Poster design",
+      "Menu design",
+      "Print-ready artwork"
+    ],
+    "featured": false
+  },
+  {
+    "slug": "nfc-cards",
+    "name": "NFC Visiting Cards",
+    "category": "Print & Paper",
+    "cat": "print",
+    "img": "nfc.svg",
+    "subtitle": "A modern way to connect.",
+    "description": "Ask about tap-to-share style visiting cards and digital-ready card options.",
+    "options": [
+      "Custom face design",
+      "Brand colours",
+      "Digital contact share",
+      "Enquire for details"
+    ],
+    "featured": false
+  }
+]

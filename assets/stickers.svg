@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 580" role="img" aria-label="Illustrative product mockup"><defs>
+<filter id="shadow" x="-60%" y="-60%" width="220%" height="240%"><feGaussianBlur stdDeviation="18"/></filter>
+<filter id="drop" x="-50%" y="-50%" width="200%" height="200%"><feDropShadow dx="0" dy="18" stdDeviation="24" flood-color="#05030a" flood-opacity=".65"/></filter>
+<linearGradient id="silver" x1="0" x2=".2" y1="0" y2="1"><stop stop-color="#fff"/><stop offset=".55" stop-color="#e1e4e5"/><stop offset="1" stop-color="#b7bcc2"/></linearGradient>
+<linearGradient id="gold" x1="0" x2="1"><stop stop-color="#e3b96b"/><stop offset=".5" stop-color="#fff3c5"/><stop offset="1" stop-color="#d49a3e"/></linearGradient>
+<linearGradient id="ink" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#4a4e5b"/><stop offset=".48" stop-color="#141721"/><stop offset="1" stop-color="#07090d"/></linearGradient>
+<linearGradient id="berry" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ea4263"/><stop offset=".5" stop-color="#a6173c"/><stop offset="1" stop-color="#5d102e"/></linearGradient>
+</defs><ellipse cx="384" cy="498" rx="235" ry="39" fill="#000" opacity=".6" filter="url(#shadow)"/>
+<g transform="rotate(-11 398 279)" filter="url(#drop)"><rect x="176" y="106" width="442" height="326" rx="20" fill="#f1e9e3"/><rect x="194" y="122" width="407" height="293" rx="14" fill="#f9f3ec"/>
+<circle cx="291" cy="227" r="73" fill="#b91e44"/><path d="M250 220 Q290 170 331 220 Q299 276 250 220" fill="#ffcb74"/><text x="290" y="253" text-anchor="middle" font-family="Arial" font-size="15" font-weight="bold" fill="white">HELLO!</text>
+<circle cx="490" cy="223" r="73" fill="#160e1d"/><text x="489" y="219" text-anchor="middle" font-family="Arial" font-size="24" fill="#e4b35d" font-weight="bold">GOOD</text><text x="489" y="249" text-anchor="middle" font-family="Arial" font-size="24" fill="white" font-weight="bold">VIBES</text>
+<rect x="234" y="328" width="162" height="53" rx="26" fill="#e6b75f"/><text x="315" y="360" text-anchor="middle" font-family="Arial" font-weight="bold" font-size="20" fill="#291023">100% YOU</text><rect x="419" y="320" width="145" height="69" rx="14" fill="#b11c43"/><text x="491" y="347" text-anchor="middle" font-family="Arial" font-weight="bold" font-size="19" fill="white">HAND</text><text x="491" y="369" text-anchor="middle" font-family="Arial" font-weight="bold" font-size="19" fill="white">MADE</text></g></svg>
